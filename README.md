@@ -20,8 +20,6 @@ How to Run
 Prerequisites
 Java Development Kit (JDK): Version 17 or higher.
 Command-Line Instructions
-Clone the Repository
-git clone https://github.com/falco1-plk/JavaVityarthiProject24BSA10135.git
 cd CCRM
 Compile the Project (From the root CCRM directory)
 javac -d bin src/edu/ccrm/cli/CCRMApp.java
