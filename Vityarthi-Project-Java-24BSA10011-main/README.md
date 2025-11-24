@@ -23,7 +23,7 @@ A Java console application called the **Campus Course & Records Manager (CCRM)**
 ### Command-Line Instructions
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/falco1-plk/JavaVityarthiProject24BSA10135.git
+    git clone https://github.com/Astitva-Singh-Pundir/VITYARTHI-JAVA-PROJECT
     cd CCRM
     ```
 2.  **Compile the Project** (From the root `CCRM` directory)
